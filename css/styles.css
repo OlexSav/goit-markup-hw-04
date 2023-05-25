@@ -181,6 +181,9 @@ color: #404BBF;
 /* ======HERO========= */
 .hero {
 background: var(--praimary-title-color);
+background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), 
+url(../images/people-office.jpg);
+background-size: cover;
 padding: 188px 0;
 }
 
